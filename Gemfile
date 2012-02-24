@@ -1,5 +1,6 @@
+source :rubygems
+
 gem "sinatra"
-gem "oauth2"
 gem "json"
 gem "rack"
 gem "thin"
